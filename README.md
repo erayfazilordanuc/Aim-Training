@@ -1,4 +1,8 @@
+## Tech Stack
+  - JavaScript
+  - React
 
+    
 ### Login Screen
 <img src="https://github.com/user-attachments/assets/c6a15cc8-c121-460f-b90d-a09c8e91d044" width="750" />
 <img src="https://github.com/user-attachments/assets/323a3b0d-89a3-417a-8990-61092e94b0eb" width="750" />
